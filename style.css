@@ -1,0 +1,23 @@
+ul{
+    color:white;
+    padding: 20px;
+}
+body{
+    background-color: black;
+}
+.line1{
+    color: white;
+    text-align: center;
+}
+.line{
+    color: white;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    color: blue;
+}
+.small_title{
+    padding: 20px;
+    color:white;
+}
